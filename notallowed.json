@@ -1,0 +1,25 @@
+{
+  "notAllowed": [
+    "home",
+    "login",
+    "register",
+    "aboutus",
+    "myaddy",
+    "owner",
+    "founder",
+    "dashboard",
+    "profile",
+    "background",
+    "address",
+    "settings",
+    "logout",
+    "getstarted",
+    "contactus",
+    "terms",
+    "privacy",
+    "faq",
+    "help",
+    "support",
+    "feedback"
+  ]
+}
